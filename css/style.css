@@ -1,0 +1,39 @@
+    h1 {
+  color: white;
+  font-size: 64px;
+  margin: ;
+}
+
+body {
+background-color: brown;
+color: white;
+border: 1px white;
+}
+
+ul {
+background-color: rgb(176, 176, 85);
+color: black;
+margin: 64px 0px 64px 0px;
+padding: 0px 0px 0px 50px;
+}
+
+ol {
+background-color: rgb(176, 176, 85);
+color: black;
+margin: 64px 0px 64px 0px;
+padding: 0px 0px 0px 50px;
+
+}
+img{
+border-radius: 64px;
+}
+div {
+background-color: white;
+
+}
+button{
+margin: 64px;
+border: 0px;
+color: black;
+
+}
